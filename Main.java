@@ -3,5 +3,6 @@ public class Main {
        System.out.println("Hello Git");
        System.out.println("Hello java deveopler");
        System.out.println("hit changed");
+       System.out.println("3rd lesson");
     }
 }
