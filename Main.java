@@ -3,5 +3,6 @@ public class Main {
        System.out.println("Github 3-dars");
        System.out.println("Lesson started");
 
+       System.out.println("git desktop");
     }
 }
